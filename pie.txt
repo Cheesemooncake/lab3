@@ -1,0 +1,5 @@
+apple 10 100 200
+strawberry 25 320 1520
+cheese 11 225 632
+blueberry 32 410 952
+raspberries 20 65 351
